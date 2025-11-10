@@ -1,0 +1,108 @@
+==============================
+Fashion Dataset — Vibe Matcher
+==============================
+
+This dataset contains a curated collection of fashion products designed to simulate real-world product listings.
+Each entry includes:
+- Product Name
+- Detailed Description
+- Associated Vibes (aesthetic or mood tags)
+
+----------------------------------------
+Product Name: Boho Dress
+----------------------------------------
+Description:
+A flowy, earthy-toned dress made from lightweight cotton fabric, perfect for outdoor festivals or beach walks.
+Its loose fit and floral embroidery reflect a free-spirited, nature-inspired aesthetic.
+
+Vibes: boho, cozy, free-spirited
+
+
+----------------------------------------
+Product Name: Street Hoodie
+----------------------------------------
+Description:
+An oversized streetwear hoodie featuring graffiti prints and bold typography.
+Ideal for casual city outings or skate park sessions, it embodies an energetic and urban vibe with a youthful edge.
+
+Vibes: urban, energetic, casual
+
+
+----------------------------------------
+Product Name: Minimalist Blazer
+----------------------------------------
+Description:
+A structured blazer with clean lines and a modern silhouette, designed for professionals who appreciate simplicity and elegance.
+Its neutral tones and tailored fit exude confidence and minimalism.
+
+Vibes: minimal, formal, modern
+
+
+----------------------------------------
+Product Name: Denim Jacket
+----------------------------------------
+Description:
+A rugged blue denim jacket with faded wash and metal buttons.
+This timeless piece adds a vintage cool factor and pairs effortlessly with both casual tees and stylish dresses.
+
+Vibes: vintage, casual, cool
+
+
+----------------------------------------
+Product Name: Floral Maxi Dress
+----------------------------------------
+Description:
+A soft chiffon maxi dress with delicate floral prints, ideal for garden parties or summer dates.
+The pastel hues and flowing fabric create a romantic, bohemian mood.
+
+Vibes: feminine, romantic, boho
+
+
+----------------------------------------
+Product Name: Athletic Joggers
+----------------------------------------
+Description:
+Slim-fit athletic joggers made from breathable stretch fabric for maximum comfort.
+Whether for gym sessions or urban streetwear looks, they combine performance and everyday versatility.
+
+Vibes: sporty, urban, active
+
+
+----------------------------------------
+Product Name: Leather Biker Jacket
+----------------------------------------
+Description:
+A premium black leather biker jacket with silver zippers and quilted shoulders.
+It adds a rebellious charm and chic boldness, making it a statement piece for any wardrobe.
+
+Vibes: edgy, chic, rock
+
+
+----------------------------------------
+Product Name: Cozy Knit Sweater
+----------------------------------------
+Description:
+A warm, chunky knit sweater crafted from soft wool-blend yarn.
+Designed for cold winter evenings, it wraps you in comfort and homeliness while maintaining a relaxed charm.
+
+Vibes: cozy, soft, homey
+
+
+----------------------------------------
+Product Name: Silk Evening Gown
+----------------------------------------
+Description:
+A luxurious silk gown with a flowing silhouette and subtle shimmer.
+Perfect for red-carpet events or elegant dinners, it radiates sophistication and timeless glamour.
+
+Vibes: luxury, classy, glamorous
+
+
+----------------------------------------
+Product Name: Cargo Pants
+----------------------------------------
+Description:
+Durable cargo pants featuring multiple utility pockets and adjustable straps.
+Their relaxed fit and earthy tones give off an adventurous, practical streetwear vibe.
+
+Vibes: streetwear, practical, adventure
